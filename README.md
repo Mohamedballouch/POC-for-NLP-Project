@@ -73,5 +73,5 @@ Apache Spark is a powerful open-source processing engine with Java, Scala, Pytho
 
 # Example of Dashbord
 
-![image](https://user-images.githubusercontent.com/28219393/89222276-b1b9a600-d5cc-11ea-8e43-91f9f2e8e80f.png)
+![image](https://user-images.githubusercontent.com/28219393/89222526-1bd24b00-d5cd-11ea-99f2-669ce0abe6c1.png)
 
