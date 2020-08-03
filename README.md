@@ -71,4 +71,7 @@ Apache Kafka is a distributed data store optimized for ingesting and processing 
 
 Apache Spark is a powerful open-source processing engine with Java, Scala, Python, R, and SQL APIs designed around speed, ease of use, and sophisticated analytics. Spark runs programs in memory up to 100 times faster than Hadoop MapReduce, or on disk 10 times faster. It can be used as a library for developing software applications and interactively conducting ad-hoc data analysis. Spark power a library stack including SQL, DataFrames, and Datasets, MLlib for machine learning, GraphX for graph storage, and Spark Streaming. In the same program, you can easily combine these libraries. Spark also runs on a stand-alone or cloud laptop, Hadoop, Apache Mesos. It can access different sources of data such as HDFS, Apache Cassandra, Apache HBase, and S3.
 
+# Example of Dashbord
+
+![image](https://user-images.githubusercontent.com/28219393/89222276-b1b9a600-d5cc-11ea-8e43-91f9f2e8e80f.png)
 
