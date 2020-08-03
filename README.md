@@ -53,5 +53,6 @@ The figure below shows the process of Hyperparameters tuning
 
 # DevOps tools for the Project
 
-![image](https://user-images.githubusercontent.com/28219393/89212742-e709c800-d5bb-11ea-8125-2b2a1840cfb3.png)
+![image](https://user-images.githubusercontent.com/28219393/89212999-57184e00-d5bc-11ea-9cfa-29bc6cda5abd.png)
+
 
